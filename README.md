@@ -42,3 +42,16 @@ This project demonstrates the use of **object movement, collision detection, and
 The Snake Game using Python Turtle is a simple yet engaging project that demonstrates the fundamentals of Python programming and game logic.
 It helps build understanding of loops, events, and collision detection while offering a fun, interactive experience.
 This project serves as a great starting point for anyone exploring Python graphics and basic game development.
+
+---
+
+## Author
+
+Abir Bhattacharjee
+ B.Tech in Computer Science
+ Passionate about Software & Game Development
+
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
+- [GitHub](https://github.com/AbirBhatt1999)  
+-  Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
