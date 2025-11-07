@@ -48,8 +48,8 @@ This project serves as a great starting point for anyone exploring Python graphi
 ## Author
 
 Abir Bhattacharjee
- B.Tech in Computer Science
- Passionate about Software & Game Development
+- B.Tech in Computer Science
+- Passionate about Software & Game Development
 
 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
